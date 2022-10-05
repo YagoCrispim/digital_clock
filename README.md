@@ -1,3 +1,3 @@
-# Digital_clock
+# Digital clock
 
 - Simple digital clock in Rust
